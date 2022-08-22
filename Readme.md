@@ -19,4 +19,3 @@
 ![image](./screen-shots/Screenshot%20(15).png)
 ![image](./screen-shots/Screenshot%20(16).png)
 ![image](./screen-shots/Screenshot%20(17).png)
-![image](./screen-shots/Screenshot%20(18).png)
