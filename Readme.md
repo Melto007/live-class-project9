@@ -1,4 +1,4 @@
-# Project 9 [Live link](https://myliveclassproject9.netlify.app/)
+# Project 9 [Live link](https://project9-landing-page.netlify.app/)
 
 ## skills gained from this project
     - I learned to use grid to align elements into columns and rows.
